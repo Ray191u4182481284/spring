@@ -1,0 +1,14 @@
+h1{
+    color:red;
+    font-family: verdana;
+    font-size: 300%;
+}
+body{
+    background: yellow;
+}
+    div{
+        background: red;
+        border:green;
+        border-width: 2px;
+        border-style:solid;
+    }
