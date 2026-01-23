@@ -5,10 +5,16 @@ h1{
 }
 body{
     background: yellow;
+    background-repeat: no-repeat;
 }
     div{
         background: red;
         border:green;
         border-width: 2px;
         border-style:solid;
+    }
+
+    span{
+        background: red;
+        color: blue;
     }
