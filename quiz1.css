@@ -1,0 +1,139 @@
+div{
+    width: 220px;
+    height: 270px;
+}
+
+#FIRSTDIV {
+    background: greenyellow;
+}
+
+#SECONDDIV{
+    background: white;
+    width: 80px;
+    height:80px;
+    position: absolute;
+    top: 20px;
+    left: 20px
+    
+}
+
+#THIRDDIV{
+    background:white;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 20px;
+    left: 120px
+    
+}
+
+#FOURTHDIV{
+    background:black;
+    width: 30px;
+    height: 35px;
+    position: absolute;
+    top: 35px;
+    left: 35px
+}
+
+#FIFTHDIV{
+    background:black;
+    width: 30px;
+    height: 35px;
+    position: absolute;
+    top: 35px;
+    left: 135px
+}
+
+#SIXTHDIV{
+    background:black;
+    width: 175px;
+    height: 125px;
+    position: absolute;
+    top: 120px;
+    left: 20px;
+}
+
+.tooth {
+    width:15px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 130px;
+    left: 30px;
+}
+
+.tooth2 {
+    width:15px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 130px;
+    left: 50px;
+}
+
+.tooth3 {
+    width:15px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 130px;
+    left: 70px;
+}
+
+.tooth4 {
+    width:15px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 130px;
+    left: 90px;
+}
+
+.tooth5 {
+    width:15px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 130px;
+    left: 110px;
+}
+
+.tooth6 {
+    width:15px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 130px;
+    left: 130px;
+}
+
+.tooth7 {
+    width:15px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 130px;
+    left: 150px;
+}
+
+.tooth8 {
+    width:15px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 130px;
+    left: 170px;
+}
+
+#TONGUE {
+    width: 60px;
+    height:50px;
+    background: red;
+    position: absolute;
+    top: 195px;
+    left: 70px;
+}
+
+
+
