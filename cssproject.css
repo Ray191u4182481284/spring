@@ -1,0 +1,27 @@
+body{
+    background: #FFD41D;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.HEADER{
+ color:#D73535;
+ font-style: oblique;
+ font:100;
+  border: #2B2A2A;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 5px;
+  display: inline-block;
+}
+.SUBHEADER{
+color:#5A9CB5;
+ font-style: oblique;
+ font:100;
+  border: #2B2A2A;
+  border-width: 2px;    
+  border-style: solid;
+  margin-top: 5px;
+  display: inline-block;
+}
