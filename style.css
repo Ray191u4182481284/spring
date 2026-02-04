@@ -12,6 +12,12 @@ body{
         border:green;
         border-width: 2px;
         border-style:solid;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 
     span{
@@ -21,6 +27,8 @@ body{
 #DIV1{
     background: blue;
     border:black;
+    font-size: 20px;
+    color:aqua;
         border-width: 2px;
         border-style:solid;
         border-color: black;
@@ -29,6 +37,8 @@ body{
 #DIV2{
     background: green;
     border:blue;
+        font-size: 50px;
+    color: white;
         border-width: 2px;
         border-style:solid;
 }
@@ -67,5 +77,6 @@ body{
     position: relative;
     top: 50px;
     left: 150px;
+    margin: 20px;
 }
     
